@@ -1,7 +1,7 @@
 # SACCf
  🌱 Spatial Agriculture-Conservation Conflict footprint
 
-This repository contains codes to reproduce the analyses of potential conflicts between agriculture and conservation. The results can be viewed in an interactive map at  <https://agriculture.spatialfootprint.com/biodiversity>.
+This repository contains codes to reproduce the analyses of potential conflicts between agriculture and conservation. The results can be viewed in an interactive map at  https://agriculture.spatialfootprint.com/biodiversity.
 
 ### Note
 As a result of modifications made to the FAOSTAT datasets after the creation of these scripts, there is a possibility that certain scripts may not execute properly.
